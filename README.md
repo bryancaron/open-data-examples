@@ -1,2 +1,2 @@
-# bigbrain-tutorial
-Juypter notebook tutorial for getting to know the BigBrain dataset.
+# open-data-tutorials
+Juypter notebook tutorials for getting to know the various open data datasets.
